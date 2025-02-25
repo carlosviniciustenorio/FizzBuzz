@@ -1,0 +1,11 @@
+/home/tenorio/Development/FizzBuzz/TwistedFizzBuzz/bin/Debug/net8.0/TwistedFizzBuzz.deps.json
+/home/tenorio/Development/FizzBuzz/TwistedFizzBuzz/bin/Debug/net8.0/TwistedFizzBuzz.dll
+/home/tenorio/Development/FizzBuzz/TwistedFizzBuzz/bin/Debug/net8.0/TwistedFizzBuzz.pdb
+/home/tenorio/Development/FizzBuzz/TwistedFizzBuzz/obj/Debug/net8.0/TwistedFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/home/tenorio/Development/FizzBuzz/TwistedFizzBuzz/obj/Debug/net8.0/TwistedFizzBuzz.AssemblyInfoInputs.cache
+/home/tenorio/Development/FizzBuzz/TwistedFizzBuzz/obj/Debug/net8.0/TwistedFizzBuzz.AssemblyInfo.cs
+/home/tenorio/Development/FizzBuzz/TwistedFizzBuzz/obj/Debug/net8.0/TwistedFizzBuzz.csproj.CoreCompileInputs.cache
+/home/tenorio/Development/FizzBuzz/TwistedFizzBuzz/obj/Debug/net8.0/TwistedFizzBuzz.dll
+/home/tenorio/Development/FizzBuzz/TwistedFizzBuzz/obj/Debug/net8.0/refint/TwistedFizzBuzz.dll
+/home/tenorio/Development/FizzBuzz/TwistedFizzBuzz/obj/Debug/net8.0/TwistedFizzBuzz.pdb
+/home/tenorio/Development/FizzBuzz/TwistedFizzBuzz/obj/Debug/net8.0/ref/TwistedFizzBuzz.dll
